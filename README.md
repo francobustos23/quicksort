@@ -11,4 +11,6 @@ QuickSort es un algoritmo de ordenamiento altamente eficiente que utiliza el enf
 4. Se realiza las mismas operaciones (recursivamente) para las submatrices en el lado izquierdo y derecho del elemento pivote.
 
 ---
-El ejemplo fue sacado de la fuente [w3schools](https://www.w3schools.com/dsa/dsa_algo_quicksort.php).
+- El ejemplo fue sacado de la fuente [w3schools](https://www.w3schools.com/dsa/dsa_algo_quicksort.php).
+- El example1 [PASTEBIN](https://pastebin.com/E8C1gf4s).
+- EL example2 fue sacado de chatgpt.
